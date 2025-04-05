@@ -13,6 +13,7 @@ function App() {
           <img 
             src='/media/portrait.jpeg' 
             height='600px'
+            alt="portrait"
           />
           <ul>
             <li>Javascript</li>
