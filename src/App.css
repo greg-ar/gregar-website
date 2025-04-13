@@ -3,7 +3,13 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-image: 
+    linear-gradient(-70deg, rgba(40, 44, 52, 1) 40%, rgba(40, 44, 52, 0) 100%),
+    url('../public/media/computer-1873831.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -12,6 +18,8 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+
+
 
 .App-link {
   color: #61dafb;
