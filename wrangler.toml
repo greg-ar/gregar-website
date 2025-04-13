@@ -1,3 +1,3 @@
-name = "gregar-website"
+name = "portfolio"
 compatibility_date = "2025-4-5"
 assets = { directory = "build" }
